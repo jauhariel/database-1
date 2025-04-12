@@ -5,9 +5,29 @@
     "artis": "Daniel Caesar (feat. Kali Uchis)"
   },
   {
+    "lagu": "https://raw.githubusercontent.com/KazukoGans/database/main/media/doilooklikehim.opus",
+    "judul": "Like Him",
+    "artis": "Tyler, The Creator (feat. Lola Young)"
+  },
+  {
     "lagu": "https://raw.githubusercontent.com/KazukoGans/database/main/media/tiptoe.opus",
     "judul": "Tip Toe",
     "artis": "HYBS"
+  },
+  {
+    "lagu": "https://raw.githubusercontent.com/KazukoGans/database/main/media/gluesong.opus",
+    "judul": "Glue Song",
+    "artis": "beabadoobee"
+  },
+  {
+    "lagu": "https://raw.githubusercontent.com/KazukoGans/database/main/media/smile.opus",
+    "judul": "Smile",
+    "artis": "Lily Allen"
+  },
+  {
+    "lagu": "https://raw.githubusercontent.com/KazukoGans/database/main/media/nextdoor.opus",
+    "judul": "next door",
+    "artis": "Amelia Moore, ASTN"
   },
   {
     "lagu": "https://raw.githubusercontent.com/KazukoGans/database/main/media/dance.opus",
@@ -110,6 +130,16 @@
     "artis": "Dhruv"
   },
   {
+    "lagu": "https://raw.githubusercontent.com/KazukoGans/database/main/media/lalala.opus",
+    "judul": "La la la",
+    "artis": "Naughty Boy (feat. Sam Smith)"
+  },
+  {
+    "lagu": "https://raw.githubusercontent.com/KazukoGans/database/main/media/birdsofafeather.opus",
+    "judul": "BIRDS OF A FEATHER",
+    "artis": "Billie Ellish"
+  },
+  {
     "lagu": "https://raw.githubusercontent.com/KazukoGans/database/main/media/wecantbefriends.opus",
     "judul": "we can't be friends (wait for your love)",
     "artis": "Ariana Grande"
@@ -143,6 +173,11 @@
     "lagu": "https://raw.githubusercontent.com/KazukoGans/database/main/media/smoothoperator.opus",
     "judul": "Smooth Operator",
     "artis": "Sade"
+  },
+  {
+    "lagu": "https://raw.githubusercontent.com/KazukoGans/database/main/media/bmf.opus",
+    "judul": "BMF",
+    "artis": "SZA"
   },
   {
     "lagu": "https://raw.githubusercontent.com/KazukoGans/database/main/media/whatitis.opus",
