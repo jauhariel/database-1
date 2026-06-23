@@ -30,19 +30,9 @@
     "artis": "Amelia Moore, ASTN"
   },
   {
-    "lagu": "https://raw.githubusercontent.com/KazukoGans/database/main/media/dance.opus",
-    "judul": "dance",
-    "artis": "deyluvkirby + eddyoentty"
-  },
-  {
     "lagu": "https://raw.githubusercontent.com/KazukoGans/database/main/media/bad.opus",
     "judul": "bad",
     "artis": "wave to earth"
-  },
- {
-    "lagu": "https://raw.githubusercontent.com/KazukoGans/database/main/media/tadow.opus",
-    "judul": "Tadow",
-    "artis": "Masego + FKJ"
   },
   {
     "lagu": "https://raw.githubusercontent.com/KazukoGans/database/main/media/ithinkilikewhenitrains.opus",
@@ -73,11 +63,6 @@
     "lagu": "https://raw.githubusercontent.com/KazukoGans/database/main/media/oneofgirl.opus",
     "judul": "One Of The Girls",
     "artis": "The Weeknd (feat. JENNIE & Lily Rose Depp)"
-  },
-  {
-    "lagu": "https://raw.githubusercontent.com/KazukoGans/database/main/media/pleasure.opus",
-    "judul": "Somebody's Pleasure",
-    "artis": "Aziz Hedra"
   },
   {
     "lagu": "https://raw.githubusercontent.com/KazukoGans/database/main/media/consume.opus",
@@ -140,6 +125,11 @@
     "artis": "Billie Ellish"
   },
   {
+    "lagu": "https://raw.githubusercontent.com/KazukoGans/database/main/media/aboutyou.opus",
+    "judul": "About You",
+    "artis": "The 1975"
+  },
+  {
     "lagu": "https://raw.githubusercontent.com/KazukoGans/database/main/media/wecantbefriends.opus",
     "judul": "we can't be friends (wait for your love)",
     "artis": "Ariana Grande"
@@ -193,5 +183,80 @@
     "lagu": "https://raw.githubusercontent.com/KazukoGans/database/main/media/suprises.opus",
     "judul": "No Suprises",
     "artis": "Radiohead"
+  },
+  {
+    "lagu": "https://raw.githubusercontent.com/KazukoGans/database/main/media/streetcar.opus",
+    "judul": "Streetcar",
+    "artis": "Daniel Caesar"
+  },
+  {
+    "lagu": "https://raw.githubusercontent.com/KazukoGans/database/main/media/youlany.opus",
+    "judul": "you!",
+    "artis": "LANY"
+  },
+  {
+    "lagu": "https://raw.githubusercontent.com/KazukoGans/database/main/media/dropdead.opus",
+    "judul": "drop dead",
+    "artis": "Olivia Rodrigo"
+  },
+  {
+    "lagu": "https://raw.githubusercontent.com/KazukoGans/database/main/media/beaches.opus",
+    "judul": "Beaches",
+    "artis": "beabadoobee"
+  },
+  {
+    "lagu": "https://raw.githubusercontent.com/KazukoGans/database/main/media/sweetboy.opus",
+    "judul": "Sweet Boy",
+    "artis": "Malcolm Todd"
+  },
+  {
+    "lagu": "https://raw.githubusercontent.com/KazukoGans/database/main/media/sunnyday.opus",
+    "judul": "Sunny day",
+    "artis": "beabadoobee"
+  },
+  {
+    "lagu": "https://raw.githubusercontent.com/KazukoGans/database/main/media/earrings.opus",
+    "judul": "Earrings",
+    "artis": "Malcolm Todd"
+  },
+  {
+    "lagu": "https://raw.githubusercontent.com/KazukoGans/database/main/media/asorrowfulreunion.opus",
+    "judul": "A Sorrowful Reunion",
+    "artis": "Reality Club"
+  },
+  {
+    "lagu": "https://raw.githubusercontent.com/KazukoGans/database/main/media/disillusioned.opus",
+    "judul": "Disillusioned",
+    "artis": "Daniel Caesar, serpentwithfeet"
+  },
+  {
+    "lagu": "https://raw.githubusercontent.com/KazukoGans/database/main/media/seasons.opus",
+    "judul": "seasons",
+    "artis": "wave to earth"
+  },
+  {
+    "lagu": "https://raw.githubusercontent.com/KazukoGans/database/main/media/breakeven.opus",
+    "judul": "Breakeven",
+    "artis": "The Script"
+  },
+  {
+    "lagu": "https://raw.githubusercontent.com/KazukoGans/database/main/media/ivy.opus",
+    "judul": "Ivy",
+    "artis": "Frank Ocean"
+  },
+  {
+    "lagu": "https://raw.githubusercontent.com/KazukoGans/database/main/media/demanwhocant.opus",
+    "judul": "The Man Who Can't Be Moved",
+    "artis": "The Script"
+  },
+  {
+    "lagu": "https://raw.githubusercontent.com/KazukoGans/database/main/media/amibotheru.opus",
+    "judul": "Am I Bothering You?",
+    "artis": "Reality Club"
+  },
+  {
+    "lagu": "https://raw.githubusercontent.com/KazukoGans/database/main/media/oceanengine.opus",
+    "judul": "Oceans & Engines",
+    "artis": "NIKI"
   }
 ]
